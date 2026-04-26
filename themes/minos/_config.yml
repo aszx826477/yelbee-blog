@@ -1,0 +1,74 @@
+# Website's icon url.
+favicon: /favicon.jpg
+
+# Open Graph metadata (https://hexo.io/docs/helpers.html#open-graph)
+open_graph:
+  twitter_id:
+  twitter_site:
+  google_plus:
+  fb_admins:
+  fb_app_id:
+
+# Website's logo shown on the left of the navigation bar.
+# It can either be an url to an image or a string if the following option is set.
+# logo:
+#   text: <logo string>
+logo:
+  text: Yelbee's Blog
+
+article:
+  # Show word count and estimated reading time.
+  readtime: true
+  # Code highlight theme, please see https://highlightjs.org/static/demo/
+  highlight: atom-one-light
+  # Date format: relative | full | relative_full | full_relative
+  date_format: relative
+
+# Navigation bar menu links.
+menu:
+  主页: /
+  归档: /archives
+  生活动态: /lifestyle
+  读书笔记: /read
+  关于: /about
+  友情链接: /friend-link
+
+# Search plugin settings.
+search:
+  type: insight
+
+# Navigation bar toc settings
+toc: true
+
+# Share plugin settings.
+share:
+  type: sharethis
+  install_url: https://platform-api.sharethis.com/js/sharethis.js#property=69ee3e8e281443f8fa970a00&product=sop
+
+# Comment plugin settings.
+comment:
+  type: changyan
+  appid: cyyudMkqA
+  conf: prod_831c81d746337337b6f73f5beb974100
+
+# Other plugins and their settings.
+plugins:
+  mathjax: true
+  katex: false
+  gallery: true
+  clipboard: true
+  google-analytics:
+    tracking_id:
+
+# Additional navigation bar links on the right.
+# Links can either be text or icon. The following link is set to be an icon link whose icon
+# is set to the class name of a FontAwesome 5 icon. The `footer_links` below also gives an
+# example of setting plain text links.
+navbar_links:
+  GitHub:
+    icon: fab fa-github
+    url: https://github.com/aszx826477/
+
+# Links at the bottom of the page.
+footer_links:
+  GitHub: https://github.com/aszx826477/
