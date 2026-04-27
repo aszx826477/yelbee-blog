@@ -43,7 +43,7 @@ toc: true
 # Share plugin settings.
 share:
   type: sharethis
-  install_url: https://platform-api.sharethis.com/js/sharethis.js#property=69ee3e8e281443f8fa970a00&product=sop
+  install_url: https://platform-api.sharethis.com/js/sharethis.js#property=69ee3e8e281443f8fa970a00&product=inline-share-buttons
 
 # Comment plugin settings.
 comment:
