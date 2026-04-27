@@ -7,7 +7,7 @@ date: 2018-09-05 22:15:00
 
 
 
-##Summary
+## Summary
 
 ---
 
@@ -58,15 +58,10 @@ Follows are some types of frames you can use in your writing:
 
 
 | # |First | Second | Third | Fourth |
-
-|---|
-
+|---| ---|---|---|---|
 |1| Intr. Choose one side | Reason 1 | Reason 2| Conc. |
-
 |2| Intr. Choose one side | Side one - My view | Another side - Concession & Refutation | Conc. |
-
 |3| Intr. Choose one side | Side one - Concession | Another side - My view - Refutation | Conc.|
-
 |4| Intr. Choose one side / new aspect | Side one / Reason 1| Another side  / Reason 2 | Conc. My view |
 
 
@@ -75,7 +70,7 @@ Follows are some types of frames you can use in your writing:
 
 
 
-##Instruction for Writing
+## Instruction for Writing
 
 ---
 
@@ -83,7 +78,7 @@ Here we define two terms - **Relationship of Objects** and **Reasoning Chain**
 
 
 
-###1. Relationship of Objects - First Pharagraph
+### 1. Relationship of Objects - First Pharagraph
 
 
 
@@ -119,7 +114,7 @@ Therefore, in the introdution of our composition, we should identify the relatio
 
 
 
-###2. Reasoning Chain - Second/Third Pharagraph
+### 2. Reasoning Chain - Second/Third Pharagraph
 
 What's the meaning of reasoning chain? It can be explained in the following flow chart. It's a way **but not only way** to spread your opinion.
 
@@ -134,11 +129,8 @@ Here are some examples:
 
 
 | Start Point | Specific | Supplement | End Point |
-
-|---|
-
+|---| --- | --- |--- |
 |watch television| some kinds of historical program, political news and latest reviews to hotspot | Leaning new knowledges which are not gotten in textbooks| Broaden our horizon with expending the scope of knowleage|
-
 | global spead of the same products| international brands oust a nation's traditional objects | Japanese crafted teapot ceremony vanishes | pose a threat to cultural diversity of a nation |
 
 
@@ -175,13 +167,13 @@ Or using **All Logical Analysis** to argue your side.
 
 
 
-##Article Framework Examples
+## Article Framework Examples
 
 ---
 
 
 
-###First Paragraph
+### First Paragraph
 
 
 
@@ -205,7 +197,7 @@ Or using **All Logical Analysis** to argue your side.
 
 
 
-###Second Paragraph
+### Second Paragraph
 
 
 
@@ -215,7 +207,7 @@ Or using **All Logical Analysis** to argue your side.
 
 
 
-###Third Paragraph
+### Third Paragraph
 
 
 
@@ -225,7 +217,7 @@ Or using **All Logical Analysis** to argue your side.
 
 
 
-###Fourth Paragraph
+### Fourth Paragraph
 
 
 
@@ -239,31 +231,28 @@ Or using **All Logical Analysis** to argue your side.
 
 
 
-##Model Sentence Structure Comparison
+## Model Sentence Structure Comparison
 
 ---
 
 
 
 | IELTS 5 | IELTS 7 |
-
 |---|---|
-
 | sth. has dramatically changed ... | sth. has brought significant changes to ... |
-
 | people still disagree about whether ... good or bad | there remains some disagreement as to whether ... positive or negative
 
 
 
 
 
-##Good Articles for Reference
+## Good Articles for Reference
 
 ---
 
 
 
-###1. To what extent do you agree or disagree?
+### 1. To what extent do you agree or disagree?
 
 
 
@@ -307,7 +296,7 @@ In conclusion, the exist (existence) of real exhibition is of great significant 
 
 
 
-###2. Discuss both views(sides) and give your own opinion.
+### 2. Discuss both views(sides) and give your own opinion.
 
 
 

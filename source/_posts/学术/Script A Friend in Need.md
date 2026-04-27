@@ -7,10 +7,6 @@ date: 2017-06-16 16:44:13
 
 
 
-
-
-
-
 [character]
 
 
@@ -27,11 +23,11 @@ How we judge a person? Many people would say that their first impressions of a p
 
 
 
-##Act One
+## Act One
 
 
 
-###[scene one] Maugham’s home
+### [scene one] Maugham’s home
 
 
 
@@ -123,11 +119,11 @@ Burton:‘(smile slightly, keep sitting) You are a REAL RAT kid, come on, contin
 
 
 
-##Act Two
+## Act Two
 
 
 
-###[scene one] the lounge of the Grand Hotel
+### [scene one] the lounge of the Grand Hotel
 
 
 
@@ -183,11 +179,11 @@ Maugham:‘OK, I have already got on the bus. (excited and simper) DeeDee (the s
 
 
 
-##Act Three
+## Act Three
 
 
 
-###[scene one] Burton’s office
+### [scene one] Burton’s office
 
 
 

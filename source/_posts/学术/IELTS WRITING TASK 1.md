@@ -6,10 +6,7 @@ date: 2018-09-03 11:05:00
 >Reference from *IELTS WRITE RIGHT* authored by Julian Charles
 
 
-
-
-
-##Summary
+## Summary
 
 ---
 
@@ -43,7 +40,7 @@ The last thing is to summary the charts and/or graphs. Remember to be simple and
 
 
 
-##Reference
+## Reference
 
 ---
 
@@ -51,7 +48,7 @@ Following are some reference written by experienced examiners which are having a
 
 
 
-###1. Line Graph(Birth rates in China and the USA)
+### 1. Line Graph(Birth rates in China and the USA)
 
 ![Birth rates in China and the USA][2]
 
@@ -131,7 +128,7 @@ some words and phases
 
 
 
-###2. Line Graph and Pie Chart(Crime in the UK)
+### 2. Line Graph and Pie Chart(Crime in the UK)
 
 
 
@@ -197,7 +194,7 @@ Other thinking for supplement
 
 
 
-###3. Pie Chart(Leisure Activities in Europe)
+### 3. Pie Chart(Leisure Activities in Europe)
 
 ![Leisure Activities in Europe][4]
 
@@ -241,7 +238,7 @@ It is also interesting to note that internet shopping was far more common in the
 
 
 
-###5. Table(World Metro Systems)
+### 5. Table(World Metro Systems)
 
 ![MTR Systems][6]
 
@@ -279,7 +276,7 @@ With regard to yearly carrying capacity, the metro systems mentioned in the tabl
 
 
 
-###6. Column Graph(Global Education Rates)
+### 6. Column Graph(Global Education Rates)
 
 ![Global Education Rates][7]
 
@@ -301,7 +298,7 @@ Also noteworthy is the fact that females are more likely to receive a secondary 
 
 
 
-###7. Bar Graph (Plastic Surgery in South Korea)
+### 7. Bar Graph (Plastic Surgery in South Korea)
 
 ![Plastic Surgery in South Korea][8]
 
@@ -347,7 +344,7 @@ We can find that in the last paragraph the author choose the different features 
 
 
 
-###8. Diagram (River Pollution)
+### 8. Diagram (River Pollution)
 
 ![River Pollution][9]
 
@@ -381,7 +378,7 @@ We are supposed to pay attention not only to text but colors, shapes and changes
 
 
 
-###9. Flow Chart (Mobile Phone Recycling)
+### 9. Flow Chart (Mobile Phone Recycling)
 
 ![Mobile Phone Recycling][10]
 
@@ -413,7 +410,7 @@ In the third and final phase, copper and precious metals are extracted from the 
 
 
 
-###10. Map (Planned Shopping Centre Locations)
+### 10. Map (Planned Shopping Centre Locations)
 
 ![Planned Shopping Centre Locations][11]
 
