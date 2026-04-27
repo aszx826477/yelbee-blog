@@ -102,3 +102,8 @@ theme: minos
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+feed:
+  type: rss2      #[rss2, atom]       
+  path: rss.xml   #[rss.xml, atom.xml]    
+  limit: false
