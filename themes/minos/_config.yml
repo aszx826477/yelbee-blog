@@ -47,9 +47,9 @@ share:
 
 # Comment plugin settings.
 comment:
-  type: changyan
-  appid: cyyudMkqA
-  conf: prod_831c81d746337337b6f73f5beb974100
+  type:
+  appid:
+  conf:
 
 # Other plugins and their settings.
 plugins:
