@@ -19,4 +19,4 @@ One day, these two men meet together. They don’t understand each other’s lif
 
 
 
-  [1]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/pic/Different%20lifestyle.jpg
+  [1]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/pic/Different%20lifestyle.jpg

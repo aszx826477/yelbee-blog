@@ -210,4 +210,4 @@ BEATBOX以帅来概括非常准确，但打着BEATBOX的小伙子的真诚让我
 
 
 
-  [1]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/TED-Rethink.jpg
+  [1]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/TED-Rethink.jpg

@@ -39,4 +39,4 @@ date: 2016-06-01 03:01:00
 
 
 
-  [1]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/pic/2016%EF%BC%8CBrave%20New%20World.jpg
+  [1]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/pic/2016%EF%BC%8CBrave%20New%20World.jpg

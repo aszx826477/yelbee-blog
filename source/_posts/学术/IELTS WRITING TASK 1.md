@@ -430,24 +430,24 @@ With regard to the planned locations of the two new shopping centres, one is lik
 
 
 
-  [1]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/writing.jpg
+  [1]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/writing.jpg
 
-  [2]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/line%20graph.jpg
+  [2]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/line%20graph.jpg
 
-  [3]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/line%20graph%20and%20pie%20chart.jpg
+  [3]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/line%20graph%20and%20pie%20chart.jpg
 
-  [4]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/pie%20chart.jpg
+  [4]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/pie%20chart.jpg
 
-  [5]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/table%20and%20pie%20chart.jpg
+  [5]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/table%20and%20pie%20chart.jpg
 
-  [6]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/table.jpg
+  [6]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/table.jpg
 
-  [7]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/column%20graph.jpg
+  [7]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/column%20graph.jpg
 
-  [8]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/bar%20graph.jpg
+  [8]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/bar%20graph.jpg
 
-  [9]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/diagram.jpg
+  [9]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/diagram.jpg
 
-  [10]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/flow%20chart.jpg
+  [10]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/flow%20chart.jpg
 
-  [11]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/map.jpg
+  [11]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/map.jpg

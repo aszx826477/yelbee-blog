@@ -33,4 +33,4 @@ Of course, through the film, I know more about the nature, but most importantly 
 
 
 
-  [1]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/pic/My%20impression%20of%20%20Dive%20to%20the%20Bermuda%20Triangle.jpg
+  [1]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/pic/My%20impression%20of%20%20Dive%20to%20the%20Bermuda%20Triangle.jpg

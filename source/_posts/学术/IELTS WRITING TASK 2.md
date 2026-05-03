@@ -364,6 +364,6 @@ In my view, it’s a wiser and sensible to donate to national and international 
 
 
 
-  [1]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/typing.jpg
+  [1]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/typing.jpg
 
-  [2]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/article/reasoning%20chain.png
+  [2]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/article/reasoning%20chain.png

@@ -37,4 +37,4 @@ Can’t we be like the ants? It is a difficult thing for us?
 
 
 
-  [1]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/pic/My%20impression%20of%20Natural%20world-----ants%20attack.jpg
+  [1]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/pic/My%20impression%20of%20Natural%20world-----ants%20attack.jpg

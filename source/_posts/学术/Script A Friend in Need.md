@@ -317,4 +317,4 @@ Maugham:‘When you made him that offer of a job, did you know he’d be drowned
 
 
 
-  [1]: https://blog-1252789527.cos.ap-shanghai.myqcloud.com/pic/Script%20A%20Friend%20in%20Need.jpg
+  [1]: https://raw.githubusercontent.com/aszx826477/yelbee-blog-pic/main/pic/Script%20A%20Friend%20in%20Need.jpg
